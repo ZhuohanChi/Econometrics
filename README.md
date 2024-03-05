@@ -1,3 +1,5 @@
+## Introduction
+
 Major focus will be on time series econometrics, which is the branch of statistics that models
 how processes evolve over time, and how their values at any two dates are potentially connected to
 each other. A major application of time series econometrics is developing techniques for forecasting
